@@ -1,5 +1,5 @@
 <h1>Todo Application</h1> 
-<h3>(live link - https://quadbtech-asmt.netlify.app/ )</h3>
+<h3>(live link - https://redux-todo-ayaz.netlify.app )</h3>
 
 <h3>This is a simple todo application built with React, Vite, React-Redux, Redux Toolkit, and Tailwind CSS.</h4>
 
